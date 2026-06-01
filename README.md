@@ -7,21 +7,25 @@ I enjoy working with raw data, organising it carefully and transforming it into 
 ## Technical Skills
 
 - **Data Analysis:** Python, SQL, Tableau Prep Builder and Tableau Cloud
-- **Analysis Environments:** Jupyter Notebook and Google Colab, Pycharm
-- **Machine Learning and NLP:** data pre-processing, TF-IDF keyword extraction, sentiment analysis and model training
+- **Analysis Environments:** Jupyter Notebook and Google Colab
+- **Machine Learning and NLP:** data preprocessing, classification, TF-IDF keyword extraction, sentiment analysis and model evaluation
 - **Databases:** MySQL, Oracle APEX and HiveQL
 - **Additional Development:** Flask, PHP, C#, JavaScript, HTML and CSS
+- **Development Tools:** PyCharm
 
 ## Featured Projects
 
 ### [Project Ingress](https://github.com/ScottJRyves/Project-Ingress)
-A Python and Flask application that extracts online news articles and transforms them into structured CSV datasets using Natural Language Processing techniques including text pre-processing, TF-IDF keyword extraction and sentiment analysis.
 
-### Deprivation and Food Hygiene Analysis
-A Tableau-based data-analysis project involving dataset joins, calculated fields, interactive dashboards and the exploration of relationships between deprivation data and food-hygiene ratings.
+A Python and Flask application that extracts online news articles and transforms them into structured CSV datasets using Natural Language Processing techniques, including text preprocessing, TF-IDF keyword extraction and sentiment analysis.
 
-### Machine Learning Coursework
-Python-based machine-learning work completed using Jupyter Notebook and Google Colab, covering data preparation, model training and evaluation.
+### [Deprivation and Food Hygiene Analysis](https://github.com/ScottJRyves/Deprivation-Food-Hygiene-Analysis)
+
+A Tableau-based data-analysis project exploring relationships between deprivation and food-hygiene ratings across local authorities in England. The project involved cleaning and joining public datasets, creating an automated Tableau Prep workflow and building an interactive Tableau Cloud dashboard.
+
+### [Malware Classification Machine-Learning Pipeline](https://github.com/ScottJRyves/malware-classification-ml-pipeline)
+
+A supervised machine-learning project using memory-analysis data to classify benign and malicious software samples. The project involved data cleaning, exploratory analysis, preprocessing, model comparison and Random Forest evaluation using Python and scikit-learn.
 
 ## Currently Looking For
 
