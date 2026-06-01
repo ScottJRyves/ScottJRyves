@@ -14,7 +14,7 @@ I enjoy working with raw data, organising it carefully and transforming it into 
 
 ## Featured Projects
 
-### Project Ingress
+### [Project Ingress](https://github.com/ScottJRyves/Project-Ingress)
 A Python and Flask application that extracts online news articles and transforms them into structured CSV datasets using Natural Language Processing techniques including text pre-processing, TF-IDF keyword extraction and sentiment analysis.
 
 ### Deprivation and Food Hygiene Analysis
