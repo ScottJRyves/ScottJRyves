@@ -29,5 +29,5 @@ I am seeking an entry-level or graduate opportunity in data analytics where I ca
 
 ## Connect With Me
 
-- [LinkedIn]((https://www.linkedin.com/in/scott-ryves-52935a297/))
+- [LinkedIn](https://www.linkedin.com/in/scott-ryves-52935a297/)
 - [Email](mailto:scottryves7@gmail.com)
